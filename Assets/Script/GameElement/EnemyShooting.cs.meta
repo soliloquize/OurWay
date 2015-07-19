@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 41fd2ae3d32aa4196b4212f3a0a18344
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cameraMain: {fileID: 164200, guid: 669d8382fd39147b8861d9bda109bc12, type: 2}
+  - testPlayer: {fileID: 164194, guid: 669d8382fd39147b8861d9bda109bc12, type: 2}
+  - bulletResource: {fileID: 100000, guid: f96b55253eb914c5cba0f280a5ecdc55, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: a34141817955d457596ac137232ab913
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: other_0
+    21300002: other_1
+    21300004: other_2
+    21300006: other_3
+    21300008: other_4
+    21300010: other_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: other_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 585
+        width: 560
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 37, y: 31, z: 66, w: 32}
+    - name: other_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 10
+        width: 173
+        height: 567
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: other_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 466
+        width: 328
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: other_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 239
+        width: 396
+        height: 205
+      alignment: 9
+      pivot: {x: .471646369, y: .445228845}
+      border: {x: 57, y: 46, z: 73, w: 71}
+    - name: other_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 61
+        width: 229
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: other_5
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 21
+        width: 163
+        height: 747
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
